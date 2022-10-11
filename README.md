@@ -21,7 +21,7 @@
 </ul>
   
 
-<h2>What I like ?</h2>
+<h2>What do I like ?</h2>
 <ul>
   <li><strong>Music :</strong> A big fan of funk and lo-fi. I play the bass for <a href="https://www.instagram.com/jelly.musique/" target="_blank">Jelly</a>.</li>
   <li><strong>Video-games :</strong> Especially indie games like <em>A Short Hike, Undertale, Stardew Valley, Hades...</em></li>
