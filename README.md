@@ -23,7 +23,7 @@
 
 <h2>What do I like ?</h2>
 <ul>
-  <li><strong>Music 🎶:</strong> A big fan of funk and lo-fi. I play the bass for <a href="https://www.instagram.com/jelly.musique/" target="_blank">Jelly</a>.</li>
-  <li><strong>Video-games 👾:</strong> Especially indie games like <em>A Short Hike, Undertale, Stardew Valley, Hades...</em></li>
-  <li><strong>Developping 👨‍💻:</strong> Since high-school, I enjoy making little programs and websites. But my dream goal would be developping my own little games.</li>
+  <li><strong>🎶 Music :</strong> A big fan of funk and lo-fi. I play the bass for <a href="https://www.instagram.com/jelly.musique/" target="_blank">Jelly</a>.</li>
+  <li><strong>👾 Video-games :</strong> Especially indie games like <em>A Short Hike, Undertale, Stardew Valley, Hades...</em></li>
+  <li><strong>👨‍💻 Developping :</strong> Since high-school, I enjoy making little programs and websites. But my dream goal would be developping my own little games.</li>
 </ul>
