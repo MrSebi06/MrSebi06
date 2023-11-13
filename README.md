@@ -1,23 +1,22 @@
 <h1>Hi my name is Sebastian !</h1>
-<p><em>You've come to my GitHub profile, so here's a quick preview :</em></p>
+<p><em>You've come to my GitHub profile, so here's a quick preview of me:</em></p>
 
 
 <h2>Who am I ?</h2>
 <ul>
   <li>Living in <strong>France</strong> 🇫🇷</li>
-  <li><strong>19</strong> years old.</li>
+  <li><strong>20</strong> years old.</li>
   <li>Studying at <a href="https://www.esgi.fr/" target="_blank">ESGI</a></li>
 </ul>
 
 
 <h2>What skills do I have ?</h2>
 <ul>
-  <li>HTML/CSS, PHP</li>
-  <li>JavaScript (React, Node)</li>  
-  <li>C</li> 
-  <li>Python</li>
-  <li>Excel</li>
-  <li>Photoshop</li>
+  <li>Python (Flask, SQLAlchemy)</li>
+  <li>JavaScript (React, Next, Node)</li>  
+  <li>C# (Unity)</li>
+  <li>PHP</li>
+  <li>C</li>
 </ul>
   
 
