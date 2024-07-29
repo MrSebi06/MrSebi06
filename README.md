@@ -5,7 +5,7 @@
 <h2>Who am I ?</h2>
 <ul>
   <li>Living in <strong>France</strong> 🇫🇷</li>
-  <li><strong>20</strong> years old.</li>
+  <li><strong>21</strong> years old.</li>
   <li>Studying at <a href="https://www.esgi.fr/" target="_blank">ESGI</a></li>
 </ul>
 
