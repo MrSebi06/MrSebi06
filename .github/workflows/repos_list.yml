@@ -1,0 +1,16 @@
+name: README Repos List
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+jobs:
+  list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run readme-repos-list
+        uses: AnandChowdhary/readme-repos-list@v1.3.2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          query: "Octocat in:readme"
+          max: 10
