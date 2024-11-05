@@ -1,7 +1,7 @@
 <h1>Hi my name is Sebastian !</h1>
 <p><em>You've come to my GitHub profile, so here's a quick preview of me:</em></p>
 
-<!-- start: YOUR_STARTER --><!-- end: YOUR_STARTER -->
+<!-- start: readme-repos-list --><!-- end: readme-repos-list -->
 
 
 <h2>Who am I ?</h2>
