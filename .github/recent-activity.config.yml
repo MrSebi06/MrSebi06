@@ -1,2 +1,2 @@
 settings:
-  line_prefix: "\- "
+  line_prefix: "{DATE} - "
