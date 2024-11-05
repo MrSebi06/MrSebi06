@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run readme-repos-list
-        uses: AnandChowdhary/readme-repos-list@v1.3.2
+        uses: DenverCoderOne/readme-repos-list@v2.0.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           query: "user:MrSebi06"
