@@ -2,14 +2,20 @@
 <p><em>You've come to my GitHub profile, so here's a quick preview of me:</em></p>
 
 <!-- start: readme-repos-list -->
-<!-- This list is auto-generated using koj-co/readme-repos-list -->
+<!-- This list is auto-generated using readme-repos-list -->
 <!-- Do not edit this list manually, your changes will be overwritten -->
-[![MrSebi06/SAK-Runner](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F49305133%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/MrSebi06/SAK-Runner)
-[![MrSebi06/Pokeapp](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F49305133%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/MrSebi06/Pokeapp)
-[![MrSebi06/MrSebi06](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F49305133%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/MrSebi06)
-[![MrSebi06/Super-Smash-Web-Project](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F49305133%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/MrSebi06/Super-Smash-Web-Project)
-[![MrSebi06/BlenderST3D](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F49305133%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/MrSebi06/BlenderST3D)
-[![MrSebi06/One-Kebab-Please](https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F49305133%3Fv%3D4&h=50&w=50&fit=cover&mask=circle&maxage=7d)](https://github.com/MrSebi06/One-Kebab-Please)
+* [BlenderST3D](https://github.com/MrSebi06/BlenderST3D) - An addon for Blender using SpeechRecognition to allow voice control.
+
+* [MrSebi06](https://github.com/MrSebi06/MrSebi06) - Config files for my GitHub profile.
+
+* [One-Kebab-Please](https://github.com/MrSebi06/One-Kebab-Please) - A small VR game about making kebabs
+
+* [Pokeapp](https://github.com/MrSebi06/Pokeapp) - A React-built pokemon documentation app.
+
+* [SAK-Runner](https://github.com/MrSebi06/SAK-Runner)
+
+* [Super-Smash-Web-Project](https://github.com/MrSebi06/Super-Smash-Web-Project) - Projet annuel 1ère année Janvier ESGI
+
 <!-- end: readme-repos-list -->
 
 
