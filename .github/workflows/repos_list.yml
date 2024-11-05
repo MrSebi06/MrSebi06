@@ -12,5 +12,5 @@ jobs:
         uses: AnandChowdhary/readme-repos-list@v1.3.2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          query: "Octocat in:readme"
+          query: "user:MrSebi06"
           max: 10
