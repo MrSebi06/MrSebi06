@@ -11,5 +11,5 @@
 Last Updated: Tuesday, November 5th, 2024, 11:09:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-{<!---LOL-STATS-START-HERE--->}
-{<!---LOL-STATS-END-HERE--->}
+<!---LOL-STATS-START-HERE--->
+<!---LOL-STATS-END-HERE--->
