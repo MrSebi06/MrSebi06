@@ -1,0 +1,25 @@
+{
+    "Summoner Name": "MrSeb06",
+    "Platform Routing Region Code": "euw1",
+    "Regional Routing Name": "europe",
+    "Matches": 10,
+    "Target File": "README.md",
+    "Toggle Credit": true,
+    "Skin Substitutions": {
+        "Caitlyn": "Battle Academia Caitlyn"
+    },
+    "Extra Info": {
+        "Seconds of CC": true,
+        "Display Rank": true,
+        "Main Lane": true,
+        "Ability Count": true,
+        "Solokills": true,
+        "Takedowns": true,
+        "Mastery": true,
+        "K/D/A": true,
+        "Pentakills": true,
+        "Quadrakills": true,
+        "Triplekills": true,
+        "Doublekills": true
+    }
+} 
