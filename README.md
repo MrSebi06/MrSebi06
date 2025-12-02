@@ -4,11 +4,11 @@
 - ⬆️ Pushed undefined commit(s) to [MrSebi06/projet_maths_5rvjv](https://github.com/MrSebi06/projet_maths_5rvjv)<br>
 - ⬆️ Pushed undefined commit(s) to [MrSebi06/projet_maths_5rvjv](https://github.com/MrSebi06/projet_maths_5rvjv)<br>
 - ⬆️ Pushed undefined commit(s) to [MrSebi06/projet_maths_5rvjv](https://github.com/MrSebi06/projet_maths_5rvjv)<br>
-- 💪 Opened PR [#6](undefined) in [MrSebi06/projet_maths_5rvjv](https://github.com/MrSebi06/projet_maths_5rvjv)<br>
+- ⬆️ Pushed undefined commit(s) to [MrSebi06/projet_maths_5rvjv](https://github.com/MrSebi06/projet_maths_5rvjv)<br>
 - ⬆️ Pushed undefined commit(s) to [MrSebi06/projet_maths_5rvjv](https://github.com/MrSebi06/projet_maths_5rvjv)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 2nd, 2025, 12:13:32 PM
+Last Updated: Tuesday, December 2nd, 2025, 4:09:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!---LOL-STATS-START-HERE--->
