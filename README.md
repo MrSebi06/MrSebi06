@@ -3,10 +3,9 @@
 <!--RECENT_ACTIVITY:start-->
 - ⭐ Starred [anissg/SimpleUnitySpring](https://github.com/anissg/SimpleUnitySpring)<br>
 - ⭐ Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)<br>
-- ⭐ Starred [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 11th, 2026, 1:13:08 AM
+Last Updated: Thursday, June 11th, 2026, 9:39:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!---LOL-STATS-START-HERE--->
